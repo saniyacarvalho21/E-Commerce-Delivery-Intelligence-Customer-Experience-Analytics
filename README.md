@@ -326,7 +326,7 @@ Predict customer service ratings using operational and transaction-related featu
 
 ### Algorithms Evaluated
 
-* Linear Regression
+* Ridge Regression
 * Random Forest Regressor
 * XGBoost Regressor
 
